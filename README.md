@@ -6,4 +6,4 @@
 I have 3 years of work experience as a 'Data engineer'. I have worked on programming languages such as python, shell, java and Big data management frameworks 'Spark'. I have hands on experience of ETL tools such as Informatica, Databricks and storages such as Amazon RDS, Amazon S3 etc.
 ### Link to a picture of favourite meme
 Click [here] https://www.care.com/c/wp-content/uploads/sites/2/2021/04/nicolef455-202117012317648905.png for the link to my favourite link
-WordLink.apply(here, 'ipsum', 'https://www.care.com/c/wp-content/uploads/sites/2/2021/04/nicolef455-202117012317648905.png');
+
