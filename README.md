@@ -8,6 +8,6 @@ I have 3 years of work experience as a 'Data engineer'. I have worked on program
 [Project link](https://github.com/kondaa1/GVSU-CIS641-Nidhyana.git)
 # Project description
 We all are aware that the employment rate is badly affected due to the COVID-19. For small business units that do the hiring process offline instead of online, it's even more difficult. To assist such small-scale business units, we came up with the idea of developing an employment management system. It will assist the local business units to advertise their hiring process and the people who are seeking jobs.
-This system is named 'Local Business Employee Management' - LBEM. It will help to reduce the unemployment rate in Grand Rapids by providing a unified platform where hiring and job searching get more efficient.
+This system is named 'Local Business Employee Management' - LBEM. It will help to reduce the unemployment rate in Grand Rapids by providing a unified platform where hiring and job searching will get more efficient.
 
 
