@@ -4,6 +4,8 @@
 * I am interested to explore the data analytics domain as my work experience is aligned with this domain.
 ## Technical background
 I have 3 years of work experience as a 'Data engineer'. I have worked on programming languages such as python, shell, java and Big data management frameworks 'Spark'. I have hands on experience of ETL tools such as Informatica, Databricks and storages such as Amazon RDS, Amazon S3 etc.
+## Personal interest
+I love to do photography. Please follow, like and share my insta page @shwetazphotography :)
 # A link to team's github.io page
 [Project link](https://github.com/kondaa1/GVSU-CIS641-Nidhyana.git)
 # Project description
